@@ -1,0 +1,28 @@
+name: Kymirrorstudios
+favicon: null
+layout_spectrum: 0.5347561417147517
+typography_spectrum: 0.48743838467635214
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.45155348745174706
+  lightness: 0.6409030833747238
+  saturation: 0.5450670218560845
+  rhythmicContrast: 0.5937802928965539
+purpose: []
