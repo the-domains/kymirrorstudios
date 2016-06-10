@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Kymirror Studios]]></title>
         <description><![CDATA[Kymirror Studios]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kymirrorstudios/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 17:52:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 10 Jun 2016 04:44:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kymirrorstudios/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/70efe816-af33-4828-bff5-6019eb36c5b7.png">]]></description>
+            <link>https://thegrid.ai/kymirrorstudios/74b9a03f-91fa-499f-96d2-40c371e303a3/index.html</link>
+            <guid isPermaLink="false">74b9a03f-91fa-499f-96d2-40c371e303a3</guid>
+            <pubDate>Fri, 10 Jun 2016 04:44:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3542c7b2-4a4f-40f9-bff9-d45848790d1d.jpg">]]></description>
-            <link>undefinedroben-from-worldly-hoods-is-the-man-on-a-constant-mission-to/index.html</link>
+            <link>https://thegrid.ai/kymirrorstudios/roben-from-worldly-hoods-is-the-man-on-a-constant-mission-to/index.html</link>
             <guid isPermaLink="false">669e3dcf-f223-4a1b-a195-0fedb3ee81ca</guid>
             <pubDate>Thu, 09 Jun 2016 17:52:29 GMT</pubDate>
         </item>
